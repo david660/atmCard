@@ -1,0 +1,65 @@
+body {
+  display:flex;
+  align-items:center;
+  justify-content: center;
+}
+
+#root{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin:0;
+  box-sizing: border-box;
+  height:230px;
+}
+
+.container {
+  background-color:rgb(77, 77, 199);
+  color:white;
+  width:350px;
+  border-radius:15px;
+}
+
+.bankName {
+  display:flex;
+  justify-content:flex-end;
+  position: relative;
+  right:34px;
+  font-size:22px;
+}
+
+.cardNo {
+  display:flex;
+  flex-direction:column;
+  font-size:19px;
+  align-items:center;
+  letter-spacing: 5px;
+  height:60px;
+}
+.little {
+  font-size:10px;
+  align-self:flex-start;
+  margin-top:-18px;
+  position:relative;
+  left:45px;
+}
+
+.expDate {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:30px;
+  font-size:20px;
+  column-gap:5px;
+}
+
+.words {
+  font-size:8px;
+  line-height:1px;
+}
+
+.cardHolder {
+  position:relative;
+  left:45px;
+  bottom:5px;
+}
