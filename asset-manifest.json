@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atmCard/static/css/main.2fc36c9b.chunk.css",
+    "main.js": "/atmCard/static/js/main.bfa56bbd.chunk.js",
+    "main.js.map": "/atmCard/static/js/main.bfa56bbd.chunk.js.map",
+    "runtime-main.js": "/atmCard/static/js/runtime-main.9117e675.js",
+    "runtime-main.js.map": "/atmCard/static/js/runtime-main.9117e675.js.map",
+    "static/js/2.697cfb5c.chunk.js": "/atmCard/static/js/2.697cfb5c.chunk.js",
+    "static/js/2.697cfb5c.chunk.js.map": "/atmCard/static/js/2.697cfb5c.chunk.js.map",
+    "index.html": "/atmCard/index.html",
+    "precache-manifest.78083f5a1778f4c5a9e4cfb03d2fb04d.js": "/atmCard/precache-manifest.78083f5a1778f4c5a9e4cfb03d2fb04d.js",
+    "service-worker.js": "/atmCard/service-worker.js",
+    "static/css/main.2fc36c9b.chunk.css.map": "/atmCard/static/css/main.2fc36c9b.chunk.css.map",
+    "static/js/2.697cfb5c.chunk.js.LICENSE.txt": "/atmCard/static/js/2.697cfb5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9117e675.js",
+    "static/js/2.697cfb5c.chunk.js",
+    "static/css/main.2fc36c9b.chunk.css",
+    "static/js/main.bfa56bbd.chunk.js"
+  ]
+}
